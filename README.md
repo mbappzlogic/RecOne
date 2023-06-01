@@ -12,6 +12,10 @@ Clone the GitHub repository to your local machine.
 ```
 git clone https://github.com/mbappzlogic/RecOne.git
 ```
+[![Installation](https://img.youtube.com/vi/aMq3onRpxgg/0.jpg)](https://www.youtube.com/watch?v=aMq3onRpxgg)
+
+
+https://youtu.be/aMq3onRpxgg
 
 ### Usage
 To use the script, run the following command:
