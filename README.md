@@ -12,9 +12,6 @@ Clone the GitHub repository to your local machine.
 ```
 git clone https://github.com/mbappzlogic/RecOne.git
 ```
-[![Installation](https://img.youtube.com/vi/I9zaLqy5d1U/0.jpg)](https://www.youtube.com/watch?v=I9zaLqy5d1U)
-
-
 
 ### Usage
 To use the script, run the following command:
@@ -23,8 +20,11 @@ To use the script, run the following command:
 ./RecOne.sh
 ```
 
-
 Once executed, the script will present you with a menu of tasks to choose from, including options such as subdomain enumeration, port scanning, or reconnaissance. Upon selecting the desired task, you will be prompted to enter the target domain name. Once you provide this information, the script will take over and automate the specified task, streamlining the entire process for you.
+
+### Usage Video 
+### Reconnaissance
+[![Reconnaissance](https://img.youtube.com/vi/I9zaLqy5d1U/0.jpg)](https://www.youtube.com/watch?v=I9zaLqy5d1U)
 
 ### Contributing
 If you'd like to contribute to this project, please create a pull request with your proposed changes. We welcome all contributions, including bug fixes, new features, and improvements to the code.
