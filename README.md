@@ -23,6 +23,16 @@ To use the script, run the following command:
 Once executed, the script will present you with a menu of tasks to choose from, including options such as subdomain enumeration, port scanning, or reconnaissance. Upon selecting the desired task, you will be prompted to enter the target domain name. Once you provide this information, the script will take over and automate the specified task, streamlining the entire process for you.
 
 ### Usage Video 
+
+### Subdomain Enumeration & Banner Grabing
+
+
+### Indepth Subdomain Enumeration 
+[![Indepth Subdomain Enumeration](https://img.youtube.com/vi/RlyuoNfK1Lw/0.jpg)](https://www.youtube.com/watch?v=RlyuoNfK1Lw)
+
+### Port Scanning
+
+
 ### Reconnaissance
 [![Reconnaissance](https://img.youtube.com/vi/I9zaLqy5d1U/0.jpg)](https://www.youtube.com/watch?v=I9zaLqy5d1U)
 
