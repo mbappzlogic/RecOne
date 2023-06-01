@@ -15,8 +15,6 @@ git clone https://github.com/mbappzlogic/RecOne.git
 [![Installation](https://img.youtube.com/vi/aMq3onRpxgg/0.jpg)](https://www.youtube.com/watch?v=aMq3onRpxgg)
 
 
-https://youtu.be/aMq3onRpxgg
-
 ### Usage
 To use the script, run the following command:
 
@@ -30,6 +28,7 @@ Once executed, the script will present you with a menu of tasks to choose from, 
 
 ### Subdomain Enumeration & Banner Grabing
 
+[![Installation](https://img.youtube.com/vi/F8XurDhTIv8/0.jpg)](https://www.youtube.com/watch?v=F8XurDhTIv8)
 
 ### Indepth Subdomain Enumeration 
 [![Indepth Subdomain Enumeration](https://img.youtube.com/vi/RlyuoNfK1Lw/0.jpg)](https://www.youtube.com/watch?v=RlyuoNfK1Lw)
